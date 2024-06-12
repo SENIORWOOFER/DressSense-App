@@ -35,6 +35,7 @@ DressSenseAI was developed by an amazing team of collaborators:
 - **yewkiang123** - [yewkiang123](https://github.com/yewkiang123)
 - **apaditya7** - [apaditya7](https://github.com/apaditya7)
 - **aarrontoh** - [aarrontoh](https://github.com/aarrontoh)
+- **PrathamRanjan** - [PrathamRanjan](https://github.com/PrathamRanjan)
 
 
 ## License
